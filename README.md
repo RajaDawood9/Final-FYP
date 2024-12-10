@@ -17,5 +17,5 @@ Technologies Used
 ## Programming Language: Javascript
 ## Database: MongoDB , postgresql
 ## Frontend: React.
-
+## Backend: Nodejs
 
